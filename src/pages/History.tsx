@@ -1,7 +1,10 @@
+
 const History: React.FC = () => {
     return (
-        <><h1>HIstory</h1></>
+        <div>
+            <h1>HIstorico</h1>
+        </div>
     )
 }
 
-export {History}
+export { History }
